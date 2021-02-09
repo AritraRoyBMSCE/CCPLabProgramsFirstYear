@@ -24,6 +24,5 @@ void printeven(int a, int b)
         }
         i++;
     }
-    getch();
     return;
 }
